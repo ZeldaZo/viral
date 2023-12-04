@@ -25,7 +25,7 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "968410597"))
 OWNER = os.environ.get("OWNER","MafiaYakuza")
 
 # Databasenya 
-DB_URI = os.environ.get("DATABASE_URL", "postgres://pghtaygf:w8GJ97We8LHeXfeL6CAHnUcux28yeFRc@suleiman.db.elephantsql.com/pghtaygf")
+DB_URI = os.environ.get("DATABASE_URL", "postgres://tezuycqi:28iQ60s-vnijaBq_3ZN-bvgmyq4V6Ppl@bubble.db.elephantsql.com/tezuycqi")
 
 # Username CH & Group
 CHANNEL = os.environ.get("CHANNEL", "Zoids_Robot")
